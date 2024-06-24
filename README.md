@@ -19,6 +19,7 @@ Utiliza una API RESTful para interactuar con los datos, la cual está implementa
 docker run -p 8080:8080 nocodb/nocodb
 ```
 > info de NoCoDB: [documentación](https://data-apis-v2.nocodb.com)
+
 Configura la URL de la API en el archivo de configuración de la aplicación Flutter.
 Ejecuta la aplicación en tu dispositivo Android utilizando Flutter.
 ## Base de datos
