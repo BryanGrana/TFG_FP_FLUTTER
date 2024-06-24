@@ -9,7 +9,7 @@ import 'package:tfgbryan/models/worker.dart';
 import '../models/worker_response.dart';
 
 class ProviderTfg with ChangeNotifier {
-  String token = "b9XlzxbJ1CRkwQQyl2mIcl5DSEkbUfM9LGkDINdf";
+  String token = "tu_token_de_nocodb";
 
   String ip = "";
 
